@@ -1,0 +1,274 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "title": "Twenty One Pilots - Clancy",
+        "price": 5200,
+        "description": "Седьмой студийный альбом американского дуэта, релиз которого состоялся 24 мая 2024 года на лейбле Fueled by Ramen",
+        "image": "https://avatars.mds.yandex.net/i?id=764c53458fb9e3eea311e4eab0741f54_l-5484813-images-thumbs&n=13",
+        "category": "Пластинки",
+        "rating": 5.0
+      },
+      {
+        "id": 2,
+        "title": "Mother Mother - O My Heart",
+        "price": 4300,
+        "description": "Второй альбом инди-рок-группы из Ванкувера, выпущенный в 2008 году",
+        "image": "https://images.genius.com/994b4e954aedfc9cd49a43d6ccd103d0.1000x1000x1.png",
+        "category": "Пластинки",
+        "rating": 4.6
+      },
+      {
+        "id": 3,
+        "title": "Ghost - Prequelle",
+        "price": 2200,
+        "description": "Четвертый студийный альбом шведской группы, выпущен 1 июня 2018 года",
+        "image": "https://avatars.mds.yandex.net/i?id=301c0bd9b90011f145efb9960bdb3b37_l-5232997-images-thumbs&n=13",
+        "category": "Пластинки",
+        "rating": 4.8
+      },
+      {
+        "id": 4,
+        "title": "My Chemical Romance - Three Cheers For Sweet Revenge",
+        "price": 3000,
+        "description": "Второй студийный альбом американской рок-группы из Нью-Джерси, выпущенный 8 июня 2004 года",
+        "image": "https://avatars.mds.yandex.net/i?id=ba1a6430ba46c797d994f63711f3357d_l-3492565-images-thumbs&n=13",
+        "category": "Пластинки",
+        "rating": 4.7
+      },
+      {
+        "id": 5,
+        "title": "Steven Universe, Vol. 1 (Original Soundtrack)",
+        "price": 4500,
+        "description": "Cборник переработанной музыки из «Вселенной Стивена». Виниловая версия альбома была выпущена 12 августа 2017 года",
+        "image": "https://i.scdn.co/image/ab67616d0000b273e18ff29a2fe8e9c0df309fa6",
+        "category": "Пластинки",
+        "rating": 4.9
+      },
+      {
+        "id": 6,
+        "title": "Bloodywood - Rakshak",
+        "price": 2400,
+        "description": "Второй студийный альбом индийской хэви-метал группы, выпущенный 18 февраля 2022 года",
+        "image": "https://avatars.mds.yandex.net/i?id=42254010d13bd5d4d8eed0396fd7535e_l-8438956-images-thumbs&n=13",
+        "category": "Пластинки",
+        "rating": 4.9
+      },
+      {
+        "id": 7,
+        "title": "System Of A Down - Toxicity",
+        "price": 4100,
+        "description": "Второй альбом американской рок-группы, выпущенный 4 сентября 2001 года",
+        "image": "https://upload.wikimedia.org/wikipedia/ru/e/e7/SOAD_Album_02.jpg",
+        "category": "Пластинки",
+        "rating": 4.7
+      },
+      {
+        "id": 8,
+        "title": "Motionless In White - Disguise",
+        "price": 5000,
+        "description": "Пятый студийный альбом американской метал-группы, выпущенный 7 июня 2019 года",
+        "image": "https://avatars.mds.yandex.net/i?id=dc8bcd1701bb4df6a6f2a72b40afa5f7_l-5220441-images-thumbs&n=13",
+        "category": "Пластинки",
+        "rating": 4.6
+      },
+      {
+        "id": 9,
+        "title": "Korn - See You On The Other Side",
+        "price": 4700,
+        "description": "Cедьмой студийный альбом ню-метал-группы, вышедший 6 декабря 2005",
+        "image": "https://avatars.mds.yandex.net/i?id=217e0b3ea45db5418c9d5253e4434b99_l-8249078-images-thumbs&n=13",
+        "category": "Пластинки",
+        "rating": 4.7
+      },
+      {
+        "id": 10,
+        "title": "MARINA - The Family Jewels",
+        "price": 4100,
+        "description": "Дебютный студийный альбом валлийской певицы Марины Диамандис, более известной под сценическим именем Marina and the Diamonds",
+        "image": "https://avatars.mds.yandex.net/i?id=2453b21d651d46cd691fc17be05698d8_l-4828361-images-thumbs&n=13",
+        "category": "Пластинки",
+        "rating": 4.8
+      },
+      {
+        "id": 11,
+        "title": "Футболка мужская",
+        "price": 1500,
+        "description": "Хлопок, черный",
+        "image": "https://avatars.mds.yandex.net/i?id=ad288ec408246a447eb7fc7971b23e71_l-10870632-images-thumbs&n=13",
+        "category": "Одежда",
+        "rating": 4.5
+      },
+      {
+        "id": 12,
+        "title": "Джинсы женские",
+        "price": 3000,
+        "description": "Скинни, синий",
+        "image": "https://avatars.mds.yandex.net/i?id=b9437f47bf2d991c787b438fd9eb6e87_l-9720926-images-thumbs&n=13",
+        "category": "Одежда",
+        "rating": 4.6
+      },
+      {
+        "id": 13,
+        "title": "Куртка зимняя",
+        "price": 10000,
+        "description": "Пуховая, черный",
+        "image": "https://avatars.mds.yandex.net/i?id=11e10470adeca8a74e525481888d2c15_l-5256374-images-thumbs&n=13",
+        "category": "Одежда",
+        "rating": 4.7
+      },
+      {
+        "id": 14,
+        "title": "Кроссовки Nike Air Max",
+        "price": 8000,
+        "description": "Беговые, белый",
+        "image": "https://n.cdn.cdek.shopping/images/shopping/rRZdxTfXURP8TxeO.jpg",
+        "category": "Одежда",
+        "rating": 4.8
+      },
+      {
+        "id": 15,
+        "title": "Рюкзак Herschel",
+        "price": 5000,
+        "description": "Повседневный, синий",
+        "image": "https://avatars.mds.yandex.net/get-mpic/5131700/img_id2395305216558156582.jpeg/orig",
+        "category": "Одежда",
+        "rating": 4.6
+      },
+      {
+        "id": 16,
+        "title": "Часы Casio G-Shock",
+        "price": 12000,
+        "description": "Ударопрочные, черный",
+        "image": "https://avatars.mds.yandex.net/get-mpic/4113189/2a0000018f6827cf5ebd5035c50e93c81851/orig",
+        "category": "Одежда",
+        "rating": 4.7
+      },
+      {
+        "id": 17,
+        "title": "Очки Ray-Ban",
+        "price": 9000,
+        "description": "Солнцезащитные, черный",
+        "image": "https://avatars.mds.yandex.net/i?id=2c8a1235b9bc3873b3b860ea2f1fe8ee_l-4258580-images-thumbs&n=13",
+        "category": "Одежда",
+        "rating": 4.8
+      },
+      {
+        "id": 18,
+        "title": "Шапка вязаная",
+        "price": 1000,
+        "description": "Шерсть, серый",
+        "image": "https://avatars.mds.yandex.net/i?id=d4cec2ef0e8089d9e20f7409bde765b5_sr-6932444-images-thumbs&n=13",
+        "category": "Одежда",
+        "rating": 4.5
+      },
+      {
+        "id": 19,
+        "title": "Платье вечернее",
+        "price": 7000,
+        "description": "Шелк, черный",
+        "image": "https://wosk1147.ru/pictures/product/middle/49438_middle.jpg",
+        "category": "Одежда",
+        "rating": 4.7
+      },
+      {
+        "id": 20,
+        "title": "Сумка женская",
+        "price": 6000,
+        "description": "Кожа, бежевый",
+        "image": "https://avatars.mds.yandex.net/i?id=b8459a2006ab56b07e745d016887dd28_l-5232270-images-thumbs&n=13",
+        "category": "Одежда",
+        "rating": 4.6
+      },
+      {
+        "id": 21,
+        "title": "Книга '1984'",
+        "price": 500,
+        "description": "Джордж Оруэлл",
+        "image": "https://avatars.mds.yandex.net/i?id=3cf3fdd9e0b6d674174b626f8cf8f65e_l-7882711-images-thumbs&n=13",
+        "category": "Книги",
+        "rating": 4.9
+      },
+      {
+        "id": 22,
+        "title": "Книга 'Мастер и Маргарита'",
+        "price": 600,
+        "description": "Михаил Булгаков",
+        "image": "https://avatars.mds.yandex.net/i?id=2884065bd897d393b44df7a624915b91_l-5879293-images-thumbs&n=13",
+        "category": "Книги",
+        "rating": 4.8
+      },
+      {
+        "id": 23,
+        "title": "Книга 'Убийство Роджера Экройда'",
+        "price": 700,
+        "description": "Агата Кристи",
+        "image": "https://avatars.mds.yandex.net/i?id=1bccc81e584bf26e240097c6fcc9c4da_l-10349168-images-thumbs&n=13",
+        "category": "Книги",
+        "rating": 4.7
+      },
+      {
+        "id": 24,
+        "title": "Книга 'Над пропастью во ржи'",
+        "price": 800,
+        "description": "Джером Дэвид Сэлинджер",
+        "image": "https://avatars.mds.yandex.net/i?id=01537c27c384252a082b7146acb87a52cc82a04c-4591727-images-thumbs&n=13",
+        "category": "Книги",
+        "rating": 4.9
+      },
+      {
+        "id": 25,
+        "title": "Книга 'Преступление и наказание'",
+        "price": 550,
+        "description": "Федор Достоевский",
+        "image": "https://avatars.mds.yandex.net/i?id=44588524b680fa882b299908ffa8a076_l-4228239-images-thumbs&n=13",
+        "category": "Книги",
+        "rating": 4.8
+      },
+      {
+        "id": 26,
+        "title": "Книга 'Маленький принц'",
+        "price": 400,
+        "description": "Антуан де Сент-Экзюпери",
+        "image": "https://avatars.mds.yandex.net/i?id=a60ac6b728c3d76804d8ed07bd507e9c_l-4373887-images-thumbs&n=13",
+        "category": "Книги",
+        "rating": 4.9
+      },
+      {
+        "id": 27,
+        "title": "Книга 'Процесс'",
+        "price": 650,
+        "description": "Франц Кафка",
+        "image": "https://avatars.mds.yandex.net/i?id=03408ed31154dd0cade5e5ab36e42351_l-5668465-images-thumbs&n=13",
+        "category": "Книги",
+        "rating": 4.7
+      },
+      {
+        "id": 28,
+        "title": "Книга 'Антрополог на Марсе'",
+        "price": 750,
+        "description": "Оливер Сакс",
+        "image": "https://avatars.mds.yandex.net/i?id=274a336b316634eddb09d7cc9bfb300b_l-12644240-images-thumbs&n=13",
+        "category": "Книги",
+        "rating": 4.8
+      },
+      {
+        "id": 29,
+        "title": "Книга 'Песнь Ахилла'",
+        "price": 900,
+        "description": "Мадлен Миллер",
+        "image": "https://avatars.mds.yandex.net/i?id=55da178c93dfffc47277a38885968f16_l-10496841-images-thumbs&n=13",
+        "category": "Книги",
+        "rating": 4.7
+      },
+      {
+        "id": 30,
+        "title": "Книга 'Одержимые'",
+        "price": 850,
+        "description": "Джойс Кэрол Оутс",
+        "image": "https://cdn1.ozone.ru/multimedia/1005373392.jpg",
+        "category": "Книги",
+        "rating": 4.8
+      }
+    ]
+  }
